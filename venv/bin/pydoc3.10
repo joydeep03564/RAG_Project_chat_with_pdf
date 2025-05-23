@@ -1,0 +1,5 @@
+#!/Users/joydeepsinhachowdhury/Documents/RAG_Project_chat_with_pdf/venv/bin/python3.10
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
